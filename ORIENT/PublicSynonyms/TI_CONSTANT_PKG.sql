@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ti_constant_pkg FOR orient.ti_constant_pkg;

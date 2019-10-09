@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM veh_endor_pkg FOR orient.veh_endor_pkg;

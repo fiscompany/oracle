@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM general_pkg FOR orient.general_pkg;

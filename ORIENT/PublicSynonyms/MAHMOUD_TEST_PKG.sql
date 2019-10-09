@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mahmoud_test_pkg FOR orient.mahmoud_test_pkg;

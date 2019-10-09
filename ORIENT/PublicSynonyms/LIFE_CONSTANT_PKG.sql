@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM life_constant_pkg FOR orient.life_constant_pkg;

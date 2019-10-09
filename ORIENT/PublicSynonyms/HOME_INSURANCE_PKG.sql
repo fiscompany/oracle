@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM home_insurance_pkg FOR orient.home_insurance_pkg;

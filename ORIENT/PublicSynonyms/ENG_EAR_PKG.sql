@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM eng_ear_pkg FOR orient.eng_ear_pkg;

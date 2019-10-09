@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM add_constant_report_pr FOR orient.add_constant_report_pr;

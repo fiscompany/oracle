@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM permission_pkg FOR orient.permission_pkg;

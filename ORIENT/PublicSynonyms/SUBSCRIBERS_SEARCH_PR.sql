@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM subscribers_search_pr FOR orient.subscribers_search_pr;

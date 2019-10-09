@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM reinsurance_pkg FOR orient.reinsurance_pkg;

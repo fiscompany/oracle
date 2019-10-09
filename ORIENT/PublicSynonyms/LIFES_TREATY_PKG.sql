@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM lifes_treaty_pkg FOR orient.lifes_treaty_pkg;

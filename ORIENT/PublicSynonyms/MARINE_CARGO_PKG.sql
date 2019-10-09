@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM marine_cargo_pkg FOR orient.marine_cargo_pkg;

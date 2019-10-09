@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM customer_individuals_pkg FOR orient.customer_individuals_pkg;

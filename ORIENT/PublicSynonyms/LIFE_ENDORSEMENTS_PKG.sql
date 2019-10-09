@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM life_endorsements_pkg FOR orient.life_endorsements_pkg;

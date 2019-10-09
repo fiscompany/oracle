@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM health_claims_pkg FOR orient.health_claims_pkg;

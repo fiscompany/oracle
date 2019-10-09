@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM recovery_pkg FOR orient.recovery_pkg;

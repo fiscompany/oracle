@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ti_endorsements_pkg FOR orient.ti_endorsements_pkg;

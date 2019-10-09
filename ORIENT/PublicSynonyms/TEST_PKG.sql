@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM test_pkg FOR orient.test_pkg;

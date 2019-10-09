@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM marine_open_pkg FOR orient.marine_open_pkg;

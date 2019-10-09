@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM home_constant_pkg FOR orient.home_constant_pkg;

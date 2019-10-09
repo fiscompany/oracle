@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM crm_pkg FOR orient.crm_pkg;

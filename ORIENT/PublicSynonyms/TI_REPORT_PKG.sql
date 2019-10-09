@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ti_report_pkg FOR orient.ti_report_pkg;

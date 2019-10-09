@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM marine_endorsement_pkg FOR orient.marine_endorsement_pkg;

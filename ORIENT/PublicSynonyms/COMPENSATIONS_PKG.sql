@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM compensations_pkg FOR orient.compensations_pkg;

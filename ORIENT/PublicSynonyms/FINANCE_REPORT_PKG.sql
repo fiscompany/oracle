@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM finance_report_pkg FOR orient.finance_report_pkg;

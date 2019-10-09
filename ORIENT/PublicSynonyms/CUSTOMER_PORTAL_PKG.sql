@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM customer_portal_pkg FOR orient.customer_portal_pkg;

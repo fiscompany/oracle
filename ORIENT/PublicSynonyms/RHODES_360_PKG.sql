@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM rhodes_360_pkg FOR orient.rhodes_360_pkg;

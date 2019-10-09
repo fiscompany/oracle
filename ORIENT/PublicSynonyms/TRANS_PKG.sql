@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM trans_pkg FOR orient.trans_pkg;

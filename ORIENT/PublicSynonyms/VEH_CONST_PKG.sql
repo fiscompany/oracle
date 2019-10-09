@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM veh_const_pkg FOR orient.veh_const_pkg;

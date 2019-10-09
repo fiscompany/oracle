@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ti_policies_pkg FOR orient.ti_policies_pkg;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM w_accident_pkg FOR orient.w_accident_pkg;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mailusers_pkg FOR orient.mailusers_pkg;

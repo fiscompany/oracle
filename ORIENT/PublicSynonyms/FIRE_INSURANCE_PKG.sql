@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM fire_insurance_pkg FOR orient.fire_insurance_pkg;

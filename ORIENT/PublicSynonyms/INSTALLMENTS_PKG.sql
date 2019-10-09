@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM installments_pkg FOR orient.installments_pkg;

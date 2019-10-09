@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM work_constant_pkg FOR orient.work_constant_pkg;

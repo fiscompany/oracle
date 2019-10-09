@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tpl_policy_pkg FOR orient.tpl_policy_pkg;

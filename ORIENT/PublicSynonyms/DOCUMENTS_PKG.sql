@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM documents_pkg FOR orient.documents_pkg;

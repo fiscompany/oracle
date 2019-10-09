@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM health_program_pkg FOR orient.health_program_pkg;

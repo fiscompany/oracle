@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM health_policy_pkg FOR orient.health_policy_pkg;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM eng_mbi_endorsments_pkg FOR orient.eng_mbi_endorsments_pkg;

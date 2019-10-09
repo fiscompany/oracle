@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM gen_insurance_pkg FOR orient.gen_insurance_pkg;

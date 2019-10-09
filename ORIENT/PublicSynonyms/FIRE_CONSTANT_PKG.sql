@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM fire_constant_pkg FOR orient.fire_constant_pkg;

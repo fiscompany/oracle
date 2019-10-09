@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM work_program_pkg FOR orient.work_program_pkg;

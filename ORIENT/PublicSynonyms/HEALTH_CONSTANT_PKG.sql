@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM health_constant_pkg FOR orient.health_constant_pkg;

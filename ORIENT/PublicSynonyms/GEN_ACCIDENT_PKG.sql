@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM gen_accident_pkg FOR orient.gen_accident_pkg;

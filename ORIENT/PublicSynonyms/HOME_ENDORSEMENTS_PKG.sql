@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM home_endorsements_pkg FOR orient.home_endorsements_pkg;

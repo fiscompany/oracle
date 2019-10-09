@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM work_policy_pkg FOR orient.work_policy_pkg;

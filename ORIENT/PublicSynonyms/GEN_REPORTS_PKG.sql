@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM gen_reports_pkg FOR orient.gen_reports_pkg;

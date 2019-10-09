@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ti_users_pkg FOR orient.ti_users_pkg;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM gen_calims_report_pkg FOR orient.gen_calims_report_pkg;

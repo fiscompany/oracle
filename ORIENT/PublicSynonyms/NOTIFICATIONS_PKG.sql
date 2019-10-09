@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM notifications_pkg FOR orient.notifications_pkg;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM work_insurance_pkg FOR orient.work_insurance_pkg;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM life_funding_endorsments_pkg FOR orient.life_funding_endorsments_pkg;

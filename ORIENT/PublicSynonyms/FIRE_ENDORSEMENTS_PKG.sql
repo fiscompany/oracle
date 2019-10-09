@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM fire_endorsements_pkg FOR orient.fire_endorsements_pkg;

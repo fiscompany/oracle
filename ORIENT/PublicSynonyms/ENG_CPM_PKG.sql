@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM eng_cpm_pkg FOR orient.eng_cpm_pkg;

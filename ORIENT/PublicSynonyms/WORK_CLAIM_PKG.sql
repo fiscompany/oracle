@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM work_claim_pkg FOR orient.work_claim_pkg;

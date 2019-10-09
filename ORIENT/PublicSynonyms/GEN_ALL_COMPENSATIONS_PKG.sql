@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM gen_all_compensations_pkg FOR orient.gen_all_compensations_pkg;

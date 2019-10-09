@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM vehicle_endorsements_pkg FOR orient.vehicle_endorsements_pkg;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM life_funding_policy_pkg FOR orient.life_funding_policy_pkg;

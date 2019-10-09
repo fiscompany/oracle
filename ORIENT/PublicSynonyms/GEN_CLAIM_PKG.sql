@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM gen_claim_pkg FOR orient.gen_claim_pkg;

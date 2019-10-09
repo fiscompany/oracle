@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tip_users_pkg FOR orient.tip_users_pkg;

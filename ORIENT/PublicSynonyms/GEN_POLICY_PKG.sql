@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM gen_policy_pkg FOR orient.gen_policy_pkg;

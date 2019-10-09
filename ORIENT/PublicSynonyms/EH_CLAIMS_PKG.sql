@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM eh_claims_pkg FOR orient.eh_claims_pkg;

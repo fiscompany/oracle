@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM eng_dev_pkg FOR orient.eng_dev_pkg;
